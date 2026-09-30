@@ -18,3 +18,5 @@ Cargo.lock
 
 # rustc internal compiler error (ICE) stack traces
 rustc-ice-*.txt
+
+.vscode
